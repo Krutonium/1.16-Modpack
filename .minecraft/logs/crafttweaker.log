@@ -1,0 +1,18 @@
+[20:50:28.830][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[20:50:29.395][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+'crafttweaker' at version '7.1.0.210'
+'immersiveengineering' at version '1.16.5-4.2.4-134'
+'immersivepetroleum' at version '3.2.0-3'
+[20:50:29.961][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[20:50:38.916][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[20:50:39.841][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
+[20:51:05.781][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[20:51:05.850][DONE][CLIENT][INFO] Finished loading Scripts!
+[20:51:10.305][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[20:51:10.384][DONE][CLIENT][INFO] Finished loading Scripts!
+[20:51:25.619][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[20:51:25.659][DONE][CLIENT][INFO] Finished loading Scripts!
+[20:51:30.979][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[20:51:31.009][DONE][CLIENT][INFO] Finished loading Scripts!
+Item: <item:refinedstorage:quartz_enriched_iron> * 64
+Copied!
