@@ -1,3 +1,12 @@
 */logs/*
 */backups/*
-*/options.txt
+*/saves/*
+*/crash-reports/*
+*/.minecraft/config/twilightforest-common-*.toml.bak
+*/cache.json
+
+*/.minecraft/usercache.json
+*/.minecraft/usernamecache.json
+*/.minecraft/hotbar.nbt
+*/.minecraft/servers.dat
+*/.minecraft/options.txt
