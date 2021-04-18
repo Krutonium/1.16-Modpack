@@ -3,6 +3,7 @@
 .minecraft/crash-reports
 .minecraft/hotbar.nbt
 .minecraft/logs
+natives/
 .minecraft/options.txt
 .minecraft/realms_persistence.json
 .minecraft/resourcepacks
