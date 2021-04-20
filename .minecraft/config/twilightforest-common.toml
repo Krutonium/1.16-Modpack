@@ -25,7 +25,7 @@ disableUncrafting = false
 	#If true, Twilight Forest will generate as a void except for Major Structures
 	skylightForest = false
 	#If true, players spawning for the first time will spawn in the Twilight Forest.
-	newPlayersSpawnInTF = false
+	newPlayersSpawnInTF = true
 	#If true, giant Twilight Oaks will also spawn in void worlds
 	skylightOaks = true
 
