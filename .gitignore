@@ -20,3 +20,4 @@ natives/
 
 .minecraft/config/twilightforest-common-*.toml.bak
 .minecraft/config/jei/bookmarks.ini
+instance.cfg
