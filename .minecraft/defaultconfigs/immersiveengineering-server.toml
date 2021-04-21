@@ -377,7 +377,7 @@
 		avg_veins_per_chunk = 8
 		#The maximum size of a vein. Set to 0 to disable generation
 		#Range: > 0
-		vein_size = 8
+		vein_size = 0
 		#Set this to true to allow retro-generation of copper Ore.
 		retrogen_enable = false
 		#The minimum Y coordinate this ore can spawn at
