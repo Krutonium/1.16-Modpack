@@ -17,7 +17,8 @@ natives/
 .minecraft/server-resource-packs
 .minecraft/usercache.json
 .minecraft/usernamecache.json
-
 .minecraft/config/twilightforest-common-*.toml.bak
 .minecraft/config/jei/bookmarks.ini
+instance.cfg
+.minecraft/moreplayermodels/*
 instance.cfg
