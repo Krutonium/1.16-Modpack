@@ -478,7 +478,7 @@
 		#A whitelist of foods allowed in the toolbox, formatting: [mod id]:[item name]
 		foods = []
 		#A whitelist of tools allowed in the toolbox, formatting: [mod id]:[item name]
-		tools = [tconstruct:pickaxe, tconstruct:axe, tconstruct:excavator, tconstruct:scythe, tconstruct:hammer, tconstruct:kama, create:wrench, refinedstorage:wrench, minecraft:bucket]
+		tools = ["tconstruct:pickaxe", "tconstruct:axe", "tconstruct:excavator", "tconstruct:scythe", "tconstruct:hammer", "tconstruct:kama", "create:wrench", "refinedstorage:wrench", "minecraft:bucket"]
 		#A whitelist of wire-related allowed in the toolbox, formatting: [mod id]:[item name]
 		wiring = []
 
